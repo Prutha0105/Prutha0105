@@ -2,6 +2,8 @@
 ## About
 Hi, I am Prutha. I am aspiring Data Analyst. I have 5+ years of experience in Data Analyst field. I have completed Masters of Technology in Computer Science in August,2019. I have developed my interest to show some meaningful insights from raw datasets. 
 
+During my masters degree, I have published one paper on **Diseases inference on Medical datasets using Classification Machine Learning and Deep Learning algorithms** in Springer, 2019. In this analysis of machine learning and deep learning classification algorithms, i have taken breast cancer dataset. I have performed SMOTE functions as Data cleaning techniques. As a part of my studies i have analyse lions behavior by analysing lions in video and images. In that i have used openCV, Python, MATLAB. 
+
 I am currently looking for jobs in Data Analyst role in Vienna, Austria. I am passionate about data and its imapct on future of our society. Over the past years, I have gained experience in Data engineering, Data modeling, Data architecture, Data schema, Data visualizations and other technologies and tools related to it.
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
@@ -65,14 +67,14 @@ I have demonstrated hoe to calculate basic matrix using CNN. Here we have calcul
 
 **Education**:
 
-- **Masters of Technology from Amrita University**
+**Masters of Technology from Amrita University**
 - I have completed my M.Tech degree with Computer Science major in Machine Learning from Amrita School of Engineering in 2019.
 - Project: Diseases inference on Medical datasets using classification Machine Learning and Deep Learning algorithm.
 - Goal: To achieve best accuracy and performance for medical dataset using deep learning algorithms. Disease Inference from the medical dataset using deep learning and machine learning algorithms for classiﬁcation and comparing the result after implementation.
 - Technology used: python, tenser flow, keras , R, WEKA, jupyter notebook, matlab
 - Dataset from kentridge and UCI repository
 
-- **Becholore of Emgineering from Gujarat Technological University**
+**Becholore of Emgineering from Gujarat Technological University**
 - I have completed my B.E. degree with Compputer Science from Faculty of Engineering Technology and Research collage in 2017.
 - Project: Complaint Box
 - Goal: To complaint the goverment regarding the issues that are happening in city nearby.
