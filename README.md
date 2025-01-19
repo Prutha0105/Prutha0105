@@ -65,7 +65,7 @@ I have demonstrated hoe to calculate basic matrix using CNN. Here we have calcul
 5. Udemy - Mastering Data modeling and Fundamentals
 6. Google certificate for Data analysis with R programming
 
-**Education**:
+## **Education**:
 
 **Masters of Technology from Amrita University**
 - I have completed my M.Tech degree with Computer Science major in Machine Learning from Amrita School of Engineering in 2019.
@@ -81,6 +81,6 @@ I have demonstrated hoe to calculate basic matrix using CNN. Here we have calcul
 - Description: We have created an android application which allows every used or citizen to create their account and file complaint regarding garbage, electricity issue, water issue, cleaning issue, public transportation issue, etc on the application. Oter side on goverment autorities will receive the complaint and try to resolve it. To measure the complaints' validness , we have used image processing algorithms.
 - Technology Used: Android, Image Processing algorithms, Php
   
-**Contact**:
+## **Contact**:
 - Email ID: pruthadesai96@gmail.com
 - Linkedin: https://www.linkedin.com/in/prutha-desai/
