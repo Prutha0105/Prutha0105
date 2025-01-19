@@ -27,7 +27,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Certificates](https://github.com/Prutha0105/Prutha0105/blob/main/README.md#certificates)
 - [Contact](https://github.com/Prutha0105/Prutha0105/blob/main/README.md#contacts)
 
-**Portfolio Projects**:
+## **Portfolio Projects**:
 
 1. Project: Convolution Neural Network - Deep Learning
    - https://github.com/Prutha0105/DeepLearning
