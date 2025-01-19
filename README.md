@@ -74,7 +74,7 @@ I have demonstrated hoe to calculate basic matrix using CNN. Here we have calcul
 - Technology used: python, tenser flow, keras , R, WEKA, jupyter notebook, matlab
 - Dataset from kentridge and UCI repository
 
-**Becholore of Emgineering from Gujarat Technological University**
+**Becholore of Engineering from Gujarat Technological University**
 - I have completed my B.E. degree with Compputer Science from Faculty of Engineering Technology and Research collage in 2017.
 - Project: Complaint Box
 - Goal: To complaint the goverment regarding the issues that are happening in city nearby.
@@ -82,5 +82,5 @@ I have demonstrated hoe to calculate basic matrix using CNN. Here we have calcul
 - Technology Used: Android, Image Processing algorithms, Php
   
 **Contact**:
-- Email ID: pruthadesai6@gmail.com
+- Email ID: pruthadesai96@gmail.com
 - Linkedin: https://www.linkedin.com/in/prutha-desai/
