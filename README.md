@@ -1,6 +1,13 @@
-# Prutha Desai - Data Analyst Portfolio
-## About
-Hi, I am Prutha. I am aspiring Data Analyst. I have 5+ years of experience in Data Analyst field. I have completed Masters of Technology in Computer Science in August,2019. I have developed my interest to show some meaningful insights from raw datasets. 
+## 👋🏼 Hi there! I'm Prutha Desai, 💻 a data Analyst from Vienna.
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Prutha0105)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prutha-desai/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/pruthadesaii/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ruthadesai96@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:prutha0105@outlook.com)
+
+<img width="55%" align="right" alt="Github" src="https://img.freepik.com/premium-vector/programmer-is-tired-work-development-programming-coding-technologies-low-battery_569013-382.jpg?w=826"/>
+I am aspiring Data Analyst. I have 5+ years of experience in Data Analyst field. I have completed Masters of Technology in Computer Science in August, 2019. I have developed my interest to show some meaningful insights from raw datasets. 
 
 During my masters degree, I have published one paper on **Diseases inference on Medical datasets using Classification Machine Learning and Deep Learning algorithms** in Springer, 2019. In this analysis of machine learning and deep learning classification algorithms, i have taken breast cancer dataset. I have performed SMOTE functions as Data cleaning techniques. As a part of my studies i have analyse lions behavior by analysing lions in video and images. In that i have used openCV, Python, MATLAB. 
 
@@ -8,79 +15,68 @@ I am currently looking for jobs in Data Analyst role in Vienna, Austria. I am pa
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-## Table of Contents
-- [About](https://github.com/Prutha0105/Prutha0105/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/Prutha0105/Prutha0105/blob/main/README.md#portfolio-projects)
-  - Python 
-  - SQL
-  - R
-  - Excel / Google Sheets
-  - Power BI
-  - SSRS
-  - SSIS
-  - HTML
-  - Image processing
-  - Machine Learning
-  - Deep Learning
 
-- [Education](https://github.com/Prutha0105/Prutha0105/blob/main/README.md#education)  
-- [Certificates](https://github.com/Prutha0105/Prutha0105/blob/main/README.md#certificates)
-- [Contact](https://github.com/Prutha0105/Prutha0105/blob/main/README.md#contacts)
+I'm a professional Data Engineer with over 4 years of experience transforming raw data into meaningful insights. Passionate about solving complex data problems, I have a proven track record of implementing scalable data pipelines and analytics solutions that drive strategic decisions. Here's a bit about what I do and what I love in the realm of data engineering.
 
-## **Portfolio Projects**:
+*-* 🛠 **Tech Stack**
 
-1. Project: Convolution Neural Network - Deep Learning
-   - https://github.com/Prutha0105/DeepLearning
-   - Description: A Convolution neaural netowrk(CNN) is a type of Artificial neaural network for processing image and video.
-I have demonstrated hoe to calculate basic matrix using CNN. Here we have calculated Precision, Recall, Accuracy and Loss.
+Here are some of the technologies I've worked with:
 
-2. Project: Market basket analysis
-   - https://github.com/Prutha0105/MarketBasket
-   - Description: One machine learning algorithm implemented using R language. Dataset is used from Kaggle.
 
-3. Project: SSRS Reports and Dashboard
-   - https://github.com/Prutha0105/SSRS-Reports-and-Dashboards
-   - Description: Created project for SSRS reports which includes Grapph reports which demonstrate different types of charts to analyse the data, Parameterized reports, Tabular repoorts, sub reports, Linked reports, Drill down reports, drill through reports.
+  * **Programming Languages:** Python, SQL, R
+  * **Databases:** Oracle, PostgreSQL, Microsoft SQL Server, MySQL, MongoDB
+  * **Cloud Platforms:** AWS (Amazon Web Services), GCP (Google Cloud Platform), Azure
+  * **DevOps Tools:** Docker, Azure DevOps
+  * **Version Control:** Git, Github
+  * **Documentation:** Confluence
+  * **Project Management:** Jira
+  * **Data Visualization/BI Tools:** Microsoft Power BI, Qlik, Tableau, SSRS, Google Analytics
 
-4. Project: SQL Project for Order management system
-   - https://github.com/Prutha0105/OrderManagementSystem
-   - Description: Created all the tables related to Online order systems in Microsoft SQL server. This project includes all the scripts to created tables, SPs and keys. Also inserted some data to the tables. Analyse the top customers, top products, tops regions/city from where most orders are being placed.
 
-5. Project: SQL project
-   - https://github.com/Prutha0105/SQL-Project
-   - Description: Using MS SQL server in this i have created different SQL scrippts for basic SQL concepts.
+*-* 💬 **Ask me about anything**, I am happy to help
 
-6. Project: Payroll System - SQL Projects
-   - https://github.com/Prutha0105/Payroll/tree/master
+*-* 📫 How to reach me: **pruthadesai96@gmail.com**
 
-7. Project: SSRS reports for Order management system
-   - Link: https://github.com/Prutha0105/Report-Project1/tree/master/Report%20Project1
-   - Description: Using the same database from SQL projects, I have created SSRS reports like tablular reports, graph reports, drill through, drill down, Image reports, Linked reports. I have taken ideal scenarios of online ecommerce portal.
 
-**Certificates**:
-1. SQL for Data Science from UC Davis university
-2. Data visualization with Python by IBM - https://www.credly.com/org/ibm/badge/data-visualization-with-python
-3. Udemy - SQL Server Performance tuning
-4. Udemy - Building Reports with SSRS
-5. Udemy - Mastering Data modeling and Fundamentals
-6. Google certificate for Data analysis with R programming
 
-## **Education**:
+**Technologies & Tools:**
 
-**Masters of Technology from Amrita University**
-- I have completed my M.Tech degree with Computer Science major in Machine Learning from Amrita School of Engineering in 2019.
-- Project: Diseases inference on Medical datasets using classification Machine Learning and Deep Learning algorithm.
-- Goal: To achieve best accuracy and performance for medical dataset using deep learning algorithms. Disease Inference from the medical dataset using deep learning and machine learning algorithms for classiﬁcation and comparing the result after implementation.
-- Technology used: python, tenser flow, keras , R, WEKA, jupyter notebook, matlab
-- Dataset from kentridge and UCI repository
 
-**Becholore of Engineering from Gujarat Technological University**
-- I have completed my B.E. degree with Compputer Science from Faculty of Engineering Technology and Research collage in 2017.
-- Project: Complaint Box
-- Goal: To complaint the goverment regarding the issues that are happening in city nearby.
-- Description: We have created an android application which allows every used or citizen to create their account and file complaint regarding garbage, electricity issue, water issue, cleaning issue, public transportation issue, etc on the application. Oter side on goverment autorities will receive the complaint and try to resolve it. To measure the complaints' validness , we have used image processing algorithms.
-- Technology Used: Android, Image Processing algorithms, Php
-  
-## **Contact**:
-- Email ID: pruthadesai96@gmail.com
-- Linkedin: https://www.linkedin.com/in/prutha-desai/
+<p>
+  <a href="https://github.com/mtahiraslan/">
+    <img width="55%" align="right" alt="Prutha's github stats" src="https://github-readme-stats.vercel.app/api?username=mtahiraslan&theme=default&hide_border=false&include_all_commits=true&count_private=false" />
+  </a>
+ 
+  <a>
+    <img width="55%" align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prutha0105&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  </a>
+
+  <code><img width="100" height="60" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
+  <code><img width="100" height="60" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
+  <br />
+  <code><img width="100" height="60" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></code>
+  <code><img width="100" height="60" src="https://www.svgrepo.com/show/448266/aws.svg"></code>
+  <code><img width="100" height="60" src="https://www.svgrepo.com/show/353805/google-cloud.svg"></code>
+  <br />
+  <code><img width="100" height="60" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+  <br />
+  <code><img width="100" height="60" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg"></code>
+  <code><img width="100" height="60" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+  <code><img width="100" height="60" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+   <br />
+  <code><img width="100" height="60" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="100" height="60" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="100" height="60" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
+   <br />
+  <code><img width="100" height="60" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="100" height="60" src="https://www.svgrepo.com/show/353597/confluence.svg"></code>
+  <code><img width="100" height="60" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
+  <br />
+  <code><img width="100" height="60" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+  <code><img width="100" height="60" src="https://www.svgrepo.com/show/354237/pycharm.svg"></code>
+  <code><img width="100" height="60" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
+    <br />
+  <code><img width="100" height="60" src="https://www.svgrepo.com/show/354427/tableau.svg"></code>
+  <code><img width="100" height="60" src="https://www.svgrepo.com/show/354242/qlik.svg"></code>
+  <code><img width="100" height="60" src="https://logowik.com/content/uploads/images/azure-data-factory2539.jpg"></code>
+</p>
