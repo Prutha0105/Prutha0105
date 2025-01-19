@@ -43,8 +43,8 @@ Here are some of the technologies I've worked with:
 
 
 <p>
-  <a href="https://github.com/mtahiraslan/">
-    <img width="55%" align="right" alt="Prutha's github stats" src="https://github-readme-stats.vercel.app/api?username=mtahiraslan&theme=default&hide_border=false&include_all_commits=true&count_private=false" />
+  <a href="https://github.com/Prutha0105/">
+    <img width="55%" align="right" alt="Prutha's github stats" src="https://github-readme-stats.vercel.app/api?username=Prutha0105&theme=default&hide_border=false&include_all_commits=true&count_private=false" />
   </a>
  
   <a>
