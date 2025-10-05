@@ -1,4 +1,4 @@
-## 👋🏼 Hi there! I'm Prutha Desai, 💻 a data Analyst from Vienna.
+## 👋🏼 Hi there! I'm Prutha Desai, 💻 from Vienna.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Prutha0105)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/pruthadesaii/)
@@ -7,7 +7,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?t=st=1737323088~exp=1737326688~hmac=1c9bb9cf5df524ac1ba1835cc056aa6ce44ed854c0c4380cce795ee1eafbdaef&w=740"/>
 
-I am aspiring Data Analyst. I have 5+ years of experience in Data Analyst field. I have completed Masters of Technology in Computer Science in August, 2019. I have developed my interest to show some meaningful insights from raw datasets. 
+I have completed Masters of Technology in Computer Science in August, 2019. I have developed my interest to show some meaningful insights from raw datasets. 
 
 During my masters degree, I have published one paper on **Diseases inference on Medical datasets using Classification Machine Learning and Deep Learning algorithms** in Springer, 2019. In this analysis of machine learning and deep learning classification algorithms, i have taken breast cancer dataset. I have performed SMOTE functions as Data cleaning techniques. As a part of my studies i have analyse lions behavior by analysing lions in video and images. In that i have used openCV, Python, MATLAB. 
 
