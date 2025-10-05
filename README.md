@@ -11,7 +11,7 @@ I have completed Masters of Technology in Computer Science in August, 2019. I ha
 
 During my masters degree, I have published one paper on **Diseases inference on Medical datasets using Classification Machine Learning and Deep Learning algorithms** in Springer, 2019. In this analysis of machine learning and deep learning classification algorithms, i have taken breast cancer dataset. I have performed SMOTE functions as Data cleaning techniques. As a part of my studies i have analyse lions behavior by analysing lions in video and images. In that i have used openCV, Python, MATLAB. 
 
-I am currently looking for jobs in Data Analyst role in Vienna, Austria. I am passionate about data and its imapct on future of our society. Over the past years, I have gained experience in Data engineering, Data modeling, Data architecture, Data schema, Data visualizations and other technologies and tools related to it.
+I am passionate about data and its imapct on future of our society. Over the past years, I have gained experience in Data engineering, Data modeling, Data architecture, Data schema, Data visualizations and other technologies and tools related to it.
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
@@ -29,7 +29,7 @@ Here are some of the technologies I've worked with:
   * **Project Management:** Jira
   * **Data Visualization/BI Tools:** Microsoft Power BI, Qlik, Tableau, SSRS, Google Analytics
 
-Please checkoit my Data Analyst Portfolio projects on: https://github.com/Prutha0105/Data-Analyst-Portfolio
+Please checkoit my Portfolio projects on: https://github.com/Prutha0105/Data-Analyst-Portfolio
 
 *-* 💬 **Ask me about anything**, I am happy to help
 
